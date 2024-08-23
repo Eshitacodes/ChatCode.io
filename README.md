@@ -46,25 +46,27 @@ ChatCode.io is a simple TCP-based chat application developed in C that allows re
   
 2. **Compile the Server and Client**
 
-  Open a terminal in the project directory and compile the server and client code:
-  
-  ```bash
-  gcc -o server server.c
-  gcc -o client client.c
-  ```
+    Open a terminal in the project directory and compile the server and client code:
+    
+    ```bash
+    gcc -o server server.c
+    gcc -o client client.c
+    ```
 
 3. **Run the Server**
+   
    In one terminal window, start the server:
-  ```bash
-  ./server
-  ```
-The server will begin listening on port 3000.
+   ```bash
+   ./server
+   ```
+   The server will begin listening on port 3000.
 
 4. **Run the Client**
+   
    In another terminal window, start the client:
-  ```bash
-  ./client
-  ```
+   ```bash
+   ./client
+   ```
    The client will connect to the server on port 3000. You can now start chatting!
 
 ## Example Usage
