@@ -71,7 +71,7 @@ ChatCode.io is a simple TCP-based chat application developed in C that allows re
 
 ## Example Usage
 
-- **Client Side **:Type your message in the client terminal and press Enter to send it to the server.
-- **Server Side **:Messages from the server will appear in the client terminal.
+- **Client Side**:Type your message in the client terminal and press Enter to send it to the server.
+- **Server Side**:Messages from the server will appear in the client terminal.
 - Type "exit" to end the chat on either the client or server side.
 - To close the terminal running the server or client, press Ctrl + C.
